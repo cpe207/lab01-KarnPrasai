@@ -10,3 +10,5 @@
 2. Edit project (add student information)
 3. Commit updated code to local repository
 4. Push updated code to Github (remote) repository
+
+กานต์ ปราศัย 660610742
